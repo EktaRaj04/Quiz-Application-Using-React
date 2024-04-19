@@ -1,0 +1,13 @@
+.submit {
+  display: flex;
+  justify-content: center;
+}
+input[type="submit"] {
+  margin-bottom: 10px;
+  height: 30px;
+  width: 80px;
+  border: 10px;
+  background-color: navajowhite;
+  border-radius: 2px;
+  cursor: pointer;
+}
